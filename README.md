@@ -101,9 +101,20 @@ I created **Unwrapping AI** to make complex data and AI concepts easier to under
 
 ## Teaching, mentoring & knowledge sharing
 
-I have 7+ years of experience teaching and mentoring professionals in machine learning, deep learning, NLP and Generative AI. I have supported professional and executive-education programmes, including programmes associated with **MIT** and **The University of Texas at Austin**, helping learners move from concepts and problem framing to applied projects and implementation.
+For **10+ years**, I have been teaching and mentoring learners and working professionals in **Data Analytics, Data Visualisation, Python, Machine Learning, Artificial Intelligence, Deep Learning, Neural Networks and Generative AI**. I have worked with **Great Learning for around a decade**, supporting learners through structured learning journeys, practical assignments and applied projects.
 
-Through **Unwrapping AI**, I share practical learning resources, notebooks and explanations for people building their foundations in data, machine learning and modern AI.
+Through Great Learning programmes, I have mentored learners associated with universities and institutions including **MIT, The University of Texas at Austin, the University of Arizona, Walsh University and College, and Johns Hopkins University**, among others. These are mentoring engagements connected with educational programmes—not claims of employment by, or formal faculty appointments at, those universities.
+
+My approach is practical: explain the concept, work through the data, build the model, evaluate the result and understand how it can be used responsibly in a real setting.
+
+## Current areas of exploration
+
+- **LLM adaptation and fine-tuning:** experimenting with open and pre-trained language models, fine-tuning approaches, evaluation and task-specific adaptation.
+- **Dataset preparation and experimentation:** exploring datasets, cleaning and structuring data, preparing training/evaluation splits, and testing model behaviour.
+- **Generative AI applications:** working with LLMs/SLMs, retrieval-augmented generation (RAG), prompt design and practical AI applications.
+- **Workflow automation:** designing and building multi-step automations with **n8n**, connecting APIs, data sources, AI models and business processes.
+- **Agentic workflows:** experimenting with tool-using agents, orchestration, verification and human-in-the-loop patterns.
+- **Hands-on learning:** turning experiments into notebooks, demonstrations and learning material through **Unwrapping AI**.
 
 ## GitHub activity
 
