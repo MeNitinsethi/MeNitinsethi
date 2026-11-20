@@ -2,7 +2,6 @@
 
 <img src="./cards/hero.svg" width="100%" alt="Nitin Sethi — AI, Data Science and Research"/>
 
-<a href="https://www.linkedin.com/in/nitin-r-sethi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/MeNitinsethi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/MeNitinsethi/Zero-to-transformer"><img src="https://img.shields.io/badge/Unwrapping_AI-Learn%20by%20building-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Unwrapping AI"/></a>
 
