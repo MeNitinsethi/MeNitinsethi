@@ -25,9 +25,10 @@ I created **Unwrapping AI** to make complex data and AI concepts easier to under
 ## Career at a glance
 
 <div align="center">
-  <img src="./cards/build.svg" width="32%" alt="Build — practical AI engineering"/>
-  <img src="./cards/research.svg" width="32%" alt="Research — applied experimentation"/>
-  <img src="./cards/learn.svg" width="32%" alt="Learn — Unwrapping AI"/>
+  <img src="./cards/build.svg" width="24%" alt="Build — practical AI engineering"/>
+  <img src="./cards/research.svg" width="24%" alt="Research — applied experimentation"/>
+  <img src="./cards/learn.svg" width="24%" alt="Learn — Unwrapping AI"/>
+  <img src="./cards/mentor.svg" width="24%" alt="Mentor — 10+ years teaching and mentoring through Great Learning programmes"/>
 </div>
 
 - **18 years** across AI, machine learning, data science and analytics
