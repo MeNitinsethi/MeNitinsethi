@@ -6,7 +6,7 @@
 <a href="https://github.com/MeNitinsethi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/MeNitinsethi/Zero-to-transformer"><img src="https://img.shields.io/badge/Unwrapping_AI-Learn%20by%20building-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Unwrapping AI"/></a>
 
-**AI & Analytics Leader · Machine Learning · Generative AI · Data Science**
+**AI & Analytics Leader ·Mentor· Machine Learning · Generative AI · Data Science**
 
 *Riyadh, Saudi Arabia*
 
@@ -35,7 +35,7 @@ I created **Unwrapping AI** to make complex data and AI concepts easier to under
 - **McKinsey & Company** — Senior Solution Analyst; analytics and machine-learning consulting
 - **Rio Tinto** — Associate Manager, Analytics, ML & AI; predictive modelling, NLP, analytics leadership and MLOps
 - **AI leadership in Saudi Arabia** — enterprise AI transformation, decision support and analytics platforms
-- **7+ years** teaching and mentoring in AI/ML, deep learning, NLP and Generative AI
+- **10+ years** teaching and mentoring in AI/ML, deep learning, NLP and Generative AI
 
 ## What I work on
 
