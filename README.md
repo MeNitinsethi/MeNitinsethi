@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cards/hero.svg" width="100%" alt="Nitin Sethi — AI and Analytics Leader"/>
+<img src="./cards/hero.svg" width="100%" alt="Nitin Sethi — Artificial Intellegence and Analytics Leader"/>
 
 <a href="https://www.linkedin.com/in/n-sethi/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/MeNitinsethi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
